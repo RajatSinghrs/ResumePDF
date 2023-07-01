@@ -1,2 +1,3 @@
 # ResumePDF
-Resume
+Not a project or something, just my resume
+
